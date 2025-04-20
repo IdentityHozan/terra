@@ -1,5 +1,5 @@
 {
-  "name": "developer-blog-starter-code",
+  "name": "terra",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,8 @@
     "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint",
-    "content": "velite --clean"
+    "content": "velite --clean",
+    "vercel-deploy": "vercel --prod"
   },
   "dependencies": {
     "-": "^0.0.1",
