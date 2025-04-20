@@ -5,6 +5,7 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings"
 import rehypePrettyCode from "rehype-pretty-code"
 import rehypeSlug from "rehype-slug"
 import remarkGfm from "remark-gfm"
+import SmartAudioPlayer from "./src/SmartAudioPlayer"; 
 
 const codeOptions = {
   theme: 'github-dark',
