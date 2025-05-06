@@ -18,7 +18,7 @@ const AboutCoverSection = () => {
             Dream Big, Work Hard, Achieve More!
             </h2>
             <p className='font-medium capitalize mt-4 text-base'>
-            I'm Mark!
+            We're KALINGA!
             </p>
         </div>
     </section>
