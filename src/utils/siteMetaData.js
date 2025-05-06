@@ -1,6 +1,6 @@
 // please update required information
 const siteMetadata = {
-    title: 'DRR BLOG',
+    title: 'KALIKA',
     author: 'M.F.A',
     headerTitle: 'Disaster Risk Management Blogs',
     description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
